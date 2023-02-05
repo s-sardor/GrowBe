@@ -633,14 +633,14 @@ input:focus {
     margin-bottom: 25px;
 }
 
-#team-sm li {
+.team-sm li {
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 0 2px;
 }
 
-#team-sm li a {
+.team-sm li a {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -648,16 +648,16 @@ input:focus {
     height: 20px;
 }
 
-#team-sm li a.active {
+.team-sm li a.active {
     background: red;
     border-radius: 50%;
 }
 
-#team-sm li a.active .bx {
+.team-sm li a.active .bx {
     color: #fff;
 }
 
-#team-sm li .bx {
+.team-sm li .bx {
     color: #aaa;
     font-size: 12px;
 }
@@ -831,21 +831,21 @@ input:focus {
     margin-bottom: 20px;
 }
 
-#blogpost-sm {
+.blogpost-sm {
     margin-bottom: 20px;
 }
 
-#blogpost-sm li {
+.blogpost-sm li {
     margin-right: 30px;
 }
 
-#blogpost-sm span {
+.blogpost-sm span {
     color: #888;
     font-size: 11px;
     font-family: 'Gilroy-SemiBold';
 }
 
-#blogpost-sm .bx {
+.blogpost-sm .bx {
     color: #f25822;
     font-size: 14px;
     vertical-align: middle;
